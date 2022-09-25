@@ -1,0 +1,8 @@
+כפתורים מיוחדים במקלדת שהם לא אותיות מספרים סימני פיסוק ותווים מיוחדים
+windows key
+alt
+shift
+spacebar
+fn
+enter
+end
